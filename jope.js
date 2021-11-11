@@ -1,0 +1,1 @@
+function o(){window.open("jope.html",Math.random(),"left=100,top=100,width=320,height=160")}setInterval(()=>{window.moveBy(10*Math.random()-5,8*Math.random()-4)});
